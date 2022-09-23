@@ -1,0 +1,4 @@
+Flask==2.2.2
+matplotlib==3.5.3
+numpy==1.23.2
+pywebio==1.6.3
